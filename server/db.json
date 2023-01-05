@@ -1,5 +1,7 @@
 {
     "dummy": [
       { "id": 1, "title": "json-server", "author": "typicode" }
-    ]
+    ],
+    "cars":[],
+    "wishlisted_cars":[],
   }
