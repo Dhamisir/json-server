@@ -26,11 +26,10 @@
     ],
     "task_manager":[
 	    {
-		    "id":1,
+		    "id":'user1',
 		    "email":"user1@gmail.com",
-		    "username":"user1",
 		    "password":"123",
-		    "allTask":["zoom","lunch","sleeping"]
+		    "allTask":[]
 	    }
     ]
   }
